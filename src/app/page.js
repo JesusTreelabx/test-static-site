@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read 
+            Read, Read, Read, Read again Read X5
           </a>
         </div>
       </main>
